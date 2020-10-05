@@ -10,3 +10,14 @@ Cargo.lock
 **/*.rs.bk
 .vscode
 /helloworld/target/
+.idea
+/day1_1/target/
+/day1_2/target/
+/day1_3/target/
+/day1_4/target/
+/day1_5/target/
+/day1_6/target/
+/day1_7/target/
+/day1_8/target/
+/day1_9/target/
+/day1_10/target/
