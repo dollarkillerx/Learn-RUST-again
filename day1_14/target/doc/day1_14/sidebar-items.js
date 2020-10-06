@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["main",""],["sum","文档注释 该函数为求和函数 # usage:    assert_eq!(3, sum(1, 2));"]]});
