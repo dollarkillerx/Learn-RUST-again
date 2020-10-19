@@ -49,7 +49,7 @@ fn test1() {
 
     let b = "s2".to_string();
     // let c = a + &b;
-    let c = a.add(&b);
+    let c = a.add(b.as_str());
     println!("c: {}",c);
     println!("b: {}",b);
 }
