@@ -14,6 +14,7 @@
 - day5 函数,闭包,迭代器
 - day5_n 函数与闭包
 - day5_n1 模式匹配
+- day5_n2 期中复习
 - day6 结构化编程
 - day7 str and slice
 - day8 设计模式
